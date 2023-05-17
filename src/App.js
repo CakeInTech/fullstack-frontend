@@ -3,7 +3,7 @@ import { useDispatch } from 'react-redux';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { fetchRandomGreeting } from './action/action';
 import Greeting from './components/Greeting';
-import './App.css'
+import './App.css';
 
 const App = () => {
   const dispatch = useDispatch();
