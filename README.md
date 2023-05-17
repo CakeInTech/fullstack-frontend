@@ -5,7 +5,7 @@
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>fullstack-rails-react</b></h3>
+  <h3><b>fullstack-frontend</b></h3>
 
 </div>
 
@@ -14,7 +14,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[fullstack\_rails\_react\] ](#-fullstack_rails_react-)
+- [📖 \[fullstack\_frontend\] ](#-fullstack_frontend-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -34,10 +34,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [fullstack_rails_react] <a name="about-project"></a>
+# 📖 [fullstack_frontend] <a name="about-project"></a>
 
 
-**[fullstack_rails_react]** is a front-end web application communicating with the backend to display a random message every refresh.
+**[fullstack_frontend]** is a front-end web application communicating with the backend to display a random message every refresh.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -94,26 +94,20 @@ Clone this repository to your desired folder:
 
 Install this project with:
 
-<!--
-Example command:
 
 ```sh
   cd my-project
-  bundle install
+  npm install
 ```
---->
+
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
 ```sh
-  ./bin/dev
+  npm start
 ```
---->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
