@@ -1,6 +1,5 @@
 import React, { useEffect } from 'react';
 import { connect } from 'react-redux';
-// eslint-disable-next-line import/no-extraneous-dependencies
 import PropTypes from 'prop-types'; // import the PropTypes module
 import { Container, Row, Col } from 'react-bootstrap';
 import { fetchRandomGreeting } from '../action/action';
